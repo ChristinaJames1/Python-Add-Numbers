@@ -1,4 +1,4 @@
-<h1>Python - Add the Digits in a Given Range</h1>
+<h1>Python - Add Digits and Square User Input of a Given Range</h1>
 
 <h2>Description</h2>
 Python is used to extract each digit and compute total sum of the digits of a range of numbers. In the first instance, given the range 1-10, the sum of its digits is 1 + 2 + 3 + 4 + 5+6…= 55 In the second, the user is prompted to input a beginnning and end number, Python will compute the sum of the inputs individually squared.
