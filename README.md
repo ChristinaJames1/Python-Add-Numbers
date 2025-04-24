@@ -5,11 +5,11 @@ Python is used to extract each digit and compute total sum of the digits of a ra
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Utilities</h2>
 
 - <b>Python</b> 
 
-<h2>Environments Used </h2>
+<h2>Environments</h2>
 
 - <b>Windows 10</b>
 - <b>Linux/Debian</b>
